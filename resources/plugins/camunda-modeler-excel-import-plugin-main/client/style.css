@@ -1,0 +1,22 @@
+.import-form .section__header, .import-form .section__body {
+  padding-left: 0;
+}
+
+.import-form .file-input input {
+  display: none;
+}
+
+.import-form .file-input .btn {
+  box-shadow: none;
+  font-weight: normal;
+}
+
+.import-form .file-input .btn:focus {
+  border: none;
+  outline: none;
+}
+
+.import-form .file-input p {
+  display: inline-block;
+  margin-left: 12px;
+}

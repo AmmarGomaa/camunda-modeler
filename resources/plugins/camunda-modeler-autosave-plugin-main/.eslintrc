@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "plugin:bpmn-io/jsx",
+    "plugin:bpmn-io/node",
+    "plugin:bpmn-io/browser"
+  ]
+}
